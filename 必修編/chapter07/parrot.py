@@ -9,3 +9,6 @@ while active:
         active = False
     else:
         print(message)
+
+message = input("何が書いてください。繰り返してお返事します。")
+print(message)
