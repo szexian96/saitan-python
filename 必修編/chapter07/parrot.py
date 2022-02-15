@@ -10,5 +10,8 @@ while active:
     else:
         print(message)
 
-message = input("何が書いてください。繰り返してお返事します。")
-print(message)
+
+
+#1
+# message = input("何が書いてください。繰り返してお返事します。")
+# print(message)
